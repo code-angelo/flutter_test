@@ -1,0 +1,41 @@
+{
+    "bracket-pair-colorizer-2.colors": [
+        "#fafafa",
+        "#9F51B6",
+        "#F7C244",
+        "#F07850",
+        "#9CDD29",
+        "#C497D4"
+    ],
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#5C6BC0",
+        "list.activeSelectionForeground": "#5C6BC0",
+        "list.inactiveSelectionForeground": "#5C6BC0",
+        "list.highlightForeground": "#5C6BC0",
+        "scrollbarSlider.activeBackground": "#5C6BC050",
+        "editorSuggestWidget.highlightForeground": "#5C6BC0",
+        "textLink.foreground": "#5C6BC0",
+        "progressBar.background": "#5C6BC0",
+        "pickerGroup.foreground": "#5C6BC0",
+        "tab.activeBorder": "#5C6BC0",
+        "notificationLink.foreground": "#5C6BC0",
+        "editorWidget.resizeBorder": "#5C6BC0",
+        "editorWidget.border": "#5C6BC0",
+        "settings.modifiedItemIndicator": "#5C6BC0",
+        "settings.modifiedItemForeground": "#AB47BC",
+        "settings.headerForeground": "#5C6BC0",
+        "panelTitle.activeBorder": "#5C6BC0",
+        "breadcrumb.activeSelectionForeground": "#5C6BC0",
+        "menu.selectionForeground": "#5C6BC0",
+        "menubar.selectionForeground": "#5C6BC0"
+    },
+    "materialTheme.autoApplyIcons": true,
+    "materialTheme.accent": "Indigo",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Monokai Night",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": -1,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": null
+}
