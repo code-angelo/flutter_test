@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 import 'package:flutter_pokedex/pages/calendar_page.dart';
 import 'package:flutter_pokedex/pages/mapa_page.dart';
@@ -8,8 +9,12 @@ import 'package:flutter_pokedex/pages/pokemon_detail_page.dart';
 void main() => runApp(MyApp());
  
 class MyApp extends StatelessWidget {
+  
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]
+    );
     return MaterialApp(
       theme: ThemeData(fontFamily: 'Nunito',
         textTheme: TextTheme(
